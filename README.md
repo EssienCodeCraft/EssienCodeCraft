@@ -27,9 +27,9 @@
 ---
 
 ### :technologist: About Me :
-I am a tech enthusiast, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana with over 7 years experience in the banking, telecom and oil & gas sector, also in Web development and data engineering.
- - :telescope: I’m a middleware engineer specialised in the Enterprise Service Bus(ESB) from IBM and a strong background in resolving technical issues and providing exceptional customer support in designing, developing, and implementing integration solutions.
- - :zap: Exploring tech stuffs on the web and solving technical issues in my field of my expertise on daily basis.
+I am a tech enthusiast, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana with over 7 years of experience in the banking, telecom and oil & gas sector, also in Web development and data engineering.
+ - :telescope: I’m a middleware engineer specializing in the Enterprise Service Bus(ESB) from IBM and have a strong background in resolving technical issues and providing exceptional customer support in designing, developing, and implementing and integration solutions.
+ - :zap: Exploring tech stuff on the web and solving technical issues in my field of my expertise daily.
  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/essienne-felix-607a3769) or [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](nanaitconsult@gmail.com)
 
 ---
