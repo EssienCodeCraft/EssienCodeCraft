@@ -20,16 +20,18 @@
     <a href="https://github.com/essien1990" target="blank"><img src="https://img.shields.io/github/followers/essien1990?color=important&logo=github&style=flat-square" alt="essien1990"/></a>
 </div>
 
-  <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Felix Here...</h2>
- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
+<h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Felix Here...</h2>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+<img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdwY2JmODBlaGx0N3gyazZhNjVlc2R2bHZuNXRsOGR6cGkya3B6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif"
+  width="400" height="200" /> 
+</div>
   
 ---
 
 ### :technologist: About Me :
 I am a tech enthusiast, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana with over 7 years of experience in the banking, telecom and oil & gas sector, also in Web development and data engineering.
- - :telescope: I’m a middleware engineer specializing in the Enterprise Service Bus(ESB) from IBM and have a strong background in resolving technical issues and providing exceptional customer support in designing, developing, and implementing and integration solutions.
- - :zap: Exploring tech stuff on the web and solving technical issues in my field of my expertise daily.
+ - :telescope: I’m a middleware engineer specializing in the Enterprise Service Bus(ESB) from IBM and have a strong background in resolving technical issues and providing exceptional customer support in designing, developing, and implementing integration solutions.
+ - :zap: Exploring tech stuff on the web and solving technical issues in my field of expertise daily.
  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/essienne-felix-607a3769) or [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](nanaitconsult@gmail.com)
 
 ---
