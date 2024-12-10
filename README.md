@@ -76,8 +76,6 @@ I am a tech enthusiast, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essien1990&&langs_count=5)](https://github.com/essien1990/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=essien1990&theme=highcontrast&background=000000)](https://git.io/streak-stats)
-
 ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=essien1990&show_icons=true&theme=vision-friendly-dark)
 
 <p>
